@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Montu is a high-performance **SPI-to-UART bridge IP core** designed to provide seamless communication between SPI-based controllers and UART-enabled devices. Serving as a protocol translator, Montu accepts data and control information over the Serial Peripheral Interface (SPI) and transmits or receives it via a standard Universal Asynchronous Receiver-Transmitter (UART) interface.
+**Montu** is a high-performance **SPI-to-UART bridge IP core** designed to provide seamless communication between SPI-based controllers and UART-enabled devices. Serving as a protocol translator, Montu accepts data and control information over the Serial Peripheral Interface (SPI) and transmits or receives it via a standard Universal Asynchronous Receiver-Transmitter (UART) interface.
 
 This IP core is ideal for embedded systems where SPI hosts need to interact with serial devices such as GPS modules, Bluetooth transceivers, modems, or legacy serial equipment without adding dedicated UART hardware to the system.
 
